@@ -51,6 +51,20 @@ Anything below P2 is pretty extra and you really don't need to worry about it.
 ## P4
 * Clean out litter boxes ([detail](#litter-box))
 
+<h1>Where is Eri?</h1>
+
+Can't find Eri? Here are some of her favourite "hiding" spots.
+
+* Behind the "curtain" in the bedroom (especially in the morning)
+* Under/behind the chair in the bedroom
+* Under the dresser in the bedroom
+* In one of the closets in the bedroom (she knows how to open these doors)
+* In her box fort in the office
+* In her carrier behind the desk in the office
+* In her covered bed in the den
+
+When all else fails, she'll usually "mrrp" and come see what's up if you call her and/or make a sound like you're getting treats out for her.
+
 <h1 id="detail">Specifics</h1>
 
 ## Food
