@@ -23,13 +23,10 @@ Located in San Mateo
 >   
 > <a href="tel:16503281430">650-328-1430</a>
 
-<br />
-
 # Rules
 1. Absolutely no people food
 2. If you stay the night, she is not allowed in the bedroom with you at night
 
-<br />
 <h1 id="needs">Eri's Hierarchy of Needs</h1>
 
 Anything below P2 is pretty extra and you really don't need to worry about it.
@@ -54,7 +51,6 @@ Anything below P2 is pretty extra and you really don't need to worry about it.
 ## P4
 * Clean out litter boxes ([detail](#litter-box))
 
-<br />
 <h1 id="detail">Specifics</h1>
 
 ## Food
@@ -70,7 +66,6 @@ Eri has some treats all over. There's a bag of treats on the kitchen counter, va
 ## Litter Box
 *I absolutely do not expect you to clean Eri's litter box(es)*, but if you wish to do so, I have a "Litter Genie" (usually kept beside one of her litter boxes). Simply use the scoop on the side of the genie to sift any clumps/poops out of the litter and put it in the chute in the top of the genie. Pull out the handle/shelf on the front of the genie to drop the debris into the collection bag below.
 
-<br />
 <h1 id="exercises">Exercises</h1>
 
 She is supposed to get 2 rest days per week, so I only do exercises with Eri on weekdays. Our usual routine lately is:  
