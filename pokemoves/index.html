@@ -1,0 +1,80 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+  
+  <div class="container">
+
+    <h1>Poké-Moves</h1>
+    
+    <div id="pokemon-select">
+      <label>Select a pokemon:</label>
+      <input type="text" id="pokemon-name-input" list="pokemon-list" disabled />
+      <datalist id="pokemon-list"></datalist>
+    </div>
+
+    <section id="pokemon-basic-data">
+      <h2>Pokemon</h2>
+      <div class="horiz">
+        <img src="" id="pokemon-sprite" />
+        <div class="vert poke-meta">
+          <h3 id="pokemon-name"></h3>
+          <div class="horiz">
+            <div id="pokemon-type-1" class="pokemon-type"></div>
+            <div id="pokemon-type-2" class="pokemon-type"></div>
+          </div>
+          <a href="#" id="pokemon-link" target="_blank">PokemonDB</a>
+          <!-- <div class="horiz">
+            <label>Games:</label>
+            <span id="pokemon-games" class="vert vert-wrap games"></span>
+          </div> -->
+        </div>
+      </div>
+    </section>
+
+    <section id="pokemon-move-list">
+      <h2>Moves</h2>
+      <div id="pokemon-move-list-games"></div>
+      <div id="add-move-control" class="container lite horiz">
+        <h3>Add a move</h3>
+        <div>
+          <label>Move: </label>
+          <input type="text" id="add-move-name" value="pound" list="move-list" />
+          <datalist id="move-list"></datalist>
+        </div>
+        <div>
+          <label>Learn method: </label>
+          <select id="add-move-learn-method">
+            <option value="level-up">Level up</option>
+            <option value="egg">Egg</option>
+            <option value="tutor">Tutor</option>
+            <option value="machine">Machine</option>
+            <option value="form-change">Form Change</option>
+          </select>
+        </div>
+        <div>
+          <label>Level:</label>
+          <input type="number" id="add-move-level" value="1" />
+        </div>
+        <div>
+          <button id="add-move-button">Add</button>
+        </div>
+      </div>
+      <div id="pokemon-move-list-container"></div>
+    </section>
+    
+  </div>
+
+  <div class="container footer">
+    <section class="smol">
+      Pokemon data provided by <a href="https://pokeapi.co/">PokeAPI</a>
+    </section>
+    <section class="smol">
+      Data missing or incorrect? <button id="clear-cache">Click here</button> to clear locally cached data for this page.
+    </section>
+  </div>
+
+  <script type="text/javascript" src="main.js"></script>
+</body>
+</html>
