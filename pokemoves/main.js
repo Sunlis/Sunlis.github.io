@@ -388,14 +388,6 @@ const renderMoveListForGame = async (gen) => {
 let addedMoves = [];
 let removedMoves = [];
 const removeMove = (name) => {
-  const added = addedMoves.find((move) => {
-    return move.move.name === name;
-  });
-  if (added) {
-    addedMoves = addedMoves.filter((move) => move.move.name !== name);
-    resetUrlParts();
-    return;
-  }
   removedMoves.push(name);
   setUrlPart('r', name, true);
 };
