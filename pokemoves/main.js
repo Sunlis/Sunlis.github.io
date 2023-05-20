@@ -471,11 +471,11 @@ const renderMove = async (name, level, added, container) => {
   const moveAction = document.createElement('td');
   const removeButton = document.createElement('button');
   removeButton.innerText = 'remove';
-  if (removedMoves.includes(name)) {
+  if (added) {
+    row.classList.add('added');
+  } else if (removedMoves.includes(name)) {
     row.classList.add('removed');
     removeButton.setAttribute('disabled', true);
-  } else if (added) {
-    row.classList.add('added');
   }
   removeButton.addEventListener('click', () => {
     row.classList.add('removed');
